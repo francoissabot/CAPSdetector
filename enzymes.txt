@@ -1,0 +1,8 @@
+HindIII
+EcoRI
+EcoRV
+BamHI
+DraI
+XbaI
+
+

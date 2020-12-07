@@ -1,0 +1,16 @@
+ACCEPTABLE LEFT PRIMERS
+                                  0-based     #                self   self hair-  qual-
+   # sequence                       start ln  N   GC%     Tm any_th end_th   pin   lity
+   0 ACNACACACACACACACAGCA             33 21  1 50.00 58.914  0.00  0.00  0.00  4.086
+   1 TGCAGACNACACACACACACA             28 21  1 50.00 58.642  0.00  0.00  0.00  4.358
+   2 ACGATGCAGACNACACACACA             24 21  1 50.00 58.513  0.00  0.00  0.00  4.487
+   3 GACNACACACACACACACAGC             32 21  1 55.00 58.287  0.00  0.00  0.00  4.713
+   4 GCAGACNACACACACACACAC             29 21  1 55.00 58.287  0.00  0.00  0.00  4.713
+   5 TGACGATGCAGACNACACACA             22 21  1 50.00 58.242  0.00  0.00  0.00  4.758
+   6 CGATGCAGACNACACACACAC             25 21  1 55.00 58.164  0.00  0.00  0.00  4.836
+   7 ACNACACACACACACACAGC              33 20  1 52.63 57.162  0.00  0.00  0.00  4.838
+   8 ACTGACGATGCAGACNACACA             20 21  1 50.00 57.964 10.65  0.00  0.00  5.036
+   9 GACGATGCAGACNACACACAC             23 21  1 55.00 57.899  0.00  0.00  0.00  5.101
+  10 CTGACGATGCAGACNACACAC             21 21  1 55.00 57.629  0.00  0.00  0.00  5.371
+  11 ATGCAGACNACACACACACAC             27 21  1 50.00 57.379  0.00  0.00  0.00  5.621
+  12 GATGCAGACNACACACACACA             26 21  1 50.00 57.109  0.00  0.00  0.00  5.891
